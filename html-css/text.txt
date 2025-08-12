@@ -1,0 +1,7 @@
+navbar scooter += click "auto scroll to page our scooter"
+navbar about += click "auto scroll to page Why Us"
+navbar contact += click "auto scroll to page Contact Us"
+
+youtube icon += click "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+instagram icon += click "https://www.canva.com/link?target=https%3A%2F%2Fwww.instagram.com%2Fnyarisewamotorbali%2F&design=DAGX10E36b8&accessRole=owner&linkSource=comment"
+floating += when reaching the last pages hide floating
